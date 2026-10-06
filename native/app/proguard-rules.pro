@@ -1,3 +1,0 @@
--keepattributes Signature,*Annotation*,InnerClasses,EnclosingMethod
--keep class com.kotha.app.data.model.** { *; }
--dontwarn org.webrtc.**

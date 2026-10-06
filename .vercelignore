@@ -1,0 +1,15 @@
+node_modules
+functions
+firebase.json
+firestore.rules
+README.md
+ANDROID.md
+ANDROID-step5.md
+.github
+android
+resources
+scripts
+capacitor.config.json
+www
+native
+drop

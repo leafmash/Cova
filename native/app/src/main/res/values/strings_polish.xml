@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_message_actions">Message options</string>
+    <string name="note_your">Your note</string>
+    <string name="note_hint">Your note is visible to your contacts for 24 hours.</string>
+    <string name="note_share">Share</string>
+    <string name="note_delete">Delete note</string>
+    <string name="note_active_now">Active now</string>
+    <string name="note_left_hours">%1$s h left</string>
+    <string name="note_left_minutes">%1$s min left</string>
+    <string name="note_message">Message</string>
+    <string name="note_reply_hint">Reply to note…</string>
+    <string name="note_reply_sent">Reply sent</string>
+    <string name="note_reply_mine">Replied to their note</string>
+    <string name="note_reply_theirs">Replied to your note</string>
+</resources>

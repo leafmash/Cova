@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_message_actions">মেসেজ অপশন</string>
+    <string name="note_your">আপনার নোট</string>
+    <string name="note_hint">আপনার নোট ২৪ ঘণ্টা পর্যন্ত কন্টাক্টদের দেখা যাবে।</string>
+    <string name="note_share">শেয়ার</string>
+    <string name="note_delete">নোট মুছুন</string>
+    <string name="note_active_now">এখন সক্রিয়</string>
+    <string name="note_left_hours">আর %1$s ঘণ্টা বাকি</string>
+    <string name="note_left_minutes">আর %1$s মিনিট বাকি</string>
+    <string name="note_message">মেসেজ করুন</string>
+    <string name="note_reply_hint">নোটে রিপ্লাই দিন…</string>
+    <string name="note_reply_sent">রিপ্লাই পাঠানো হয়েছে</string>
+    <string name="note_reply_mine">তাদের নোটে রিপ্লাই</string>
+    <string name="note_reply_theirs">আপনার নোটে রিপ্লাই</string>
+</resources>

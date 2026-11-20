@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channel_calls_ongoing">চলমান কল</string>
+    <string name="call_camera_off">ক্যামেরা বন্ধ</string>
+    <string name="call_return">%1$s চলছে — ফিরে যেতে ট্যাপ করুন</string>
+    <string name="call_fsi_title">ফুল-স্ক্রিন কল অ্যালার্ট</string>
+    <string name="call_fsi_text">লক স্ক্রিনের ওপর ইনকামিং কল দেখানোর অনুমতি দিন</string>
+    <string name="calls_delete">মুছুন</string>
+    <string name="calls_delete_title">এই কলটি মুছবেন?</string>
+    <string name="calls_delete_text">এই ডিভাইসের কল হিস্টোরি থেকে এটি সরে যাবে।</string>
+    <string name="calls_clear_all">সব মুছুন</string>
+    <string name="calls_clear_title">কল হিস্টোরি মুছবেন?</string>
+    <string name="calls_clear_text">এই ডিভাইসের কল হিস্টোরি থেকে সব কল সরে যাবে।</string>
+    <string name="calls_clear_log">কল লগ মুছুন</string>
+</resources>

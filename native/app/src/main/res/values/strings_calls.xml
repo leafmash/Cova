@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channel_calls_ongoing">Ongoing calls</string>
+    <string name="call_camera_off">Camera is off</string>
+    <string name="call_return">%1$s in progress — tap to return</string>
+    <string name="call_fsi_title">Full-screen call alerts</string>
+    <string name="call_fsi_text">Allow Cova to show incoming calls over the lock screen</string>
+    <string name="calls_delete">Delete</string>
+    <string name="calls_delete_title">Delete this call?</string>
+    <string name="calls_delete_text">It will be removed from your call history on this device.</string>
+    <string name="calls_clear_all">Clear all</string>
+    <string name="calls_clear_title">Clear call history?</string>
+    <string name="calls_clear_text">All calls will be removed from your call history on this device.</string>
+    <string name="calls_clear_log">Clear call log</string>
+</resources>

@@ -278,6 +278,7 @@
     <string name="profile_about">পরিচিতি</string>
     <string name="profile_name_ph">আপনার নাম</string>
     <string name="profile_about_ph">নিজের সম্পর্কে কয়েকটি কথা লিখুন</string>
+    <string name="profile_about_empty">এখনো কোনো পরিচিতি লেখা হয়নি</string>
     <string name="profile_edit_hint">এখান থেকে ইমেইল বদলানো যাবে না।</string>
     <string name="profile_save">সেভ</string>
     <string name="profile_saved">প্রোফাইল আপডেট হয়েছে</string>
@@ -403,4 +404,7 @@
     <string name="delete_failed">অ্যাকাউন্ট মোছা যায়নি। ইন্টারনেট দেখে আবার চেষ্টা করুন।</string>
     <string name="delete_reauth">নিরাপত্তার জন্য আবার নিশ্চিত করে চেষ্টা করুন।</string>
     <string name="delete_done">আপনার অ্যাকাউন্ট মুছে ফেলা হয়েছে।</string>
+    <string name="user_deleted">মুছে ফেলা অ্যাকাউন্ট</string>
+    <string name="chat_peer_deleted_bar">এই অ্যাকাউন্টটি মুছে ফেলা হয়েছে। আপনি আর মেসেজ পাঠাতে পারবেন না।</string>
+    <string name="media_group_preview">%1$sটি ছবি ও ভিডিও</string>
 </resources>
